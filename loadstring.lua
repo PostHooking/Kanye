@@ -1,6 +1,7 @@
 place = game.PlaceId
 games = {
     HoopsLife = {7540728600,7540728417,7540727946,7797523964};
+    HoopsDemo = {360589910};
 }
 
 for i,v in pairs(games) do
